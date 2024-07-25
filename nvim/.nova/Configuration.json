@@ -1,0 +1,15 @@
+{
+  "eablokker.tabsSidebar.config.collapsedFolders" : [
+
+  ],
+  "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
+    "lua",
+    "json"
+  ],
+  "eablokker.tabsSidebar.config.customTabOrder" : [
+    "file:\/\/\/Users\/rudix\/.config\/nvim\/lua\/plugins\/example.lua",
+    "file:\/\/\/Users\/rudix\/.config\/nvim\/lazy-lock.json",
+    "file:\/\/\/Users\/rudix\/.config\/nvim\/lua\/plugins\/bbq.lua",
+    "file:\/\/\/Users\/rudix\/.config\/nvim\/lua\/config\/keymaps.lua"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "parser-directories": [
+    "/home/rudix/github",
+    "/home/rudix/src",
+    "/home/rudix/source",
+    "/home/rudix/projects",
+    "/home/rudix/dev",
+    "/home/rudix/git"
+  ],
+  "theme": {
+    "type.builtin": {
+      "color": 23,
+      "bold": true
+    },
+    "function.builtin": {
+      "color": 26,
+      "bold": true
+    },
+    "property": 124,
+    "attribute": {
+      "italic": true,
+      "color": 124
+    },
+    "keyword": 56,
+    "constant": 94,
+    "string": 28,
+    "variable.parameter": {
+      "underline": true
+    },
+    "string.special": 30,
+    "embedded": null,
+    "module": 136,
+    "comment": {
+      "color": 245,
+      "italic": true
+    },
+    "constructor": 136,
+    "number": {
+      "bold": true,
+      "color": 94
+    },
+    "tag": 18,
+    "type": 23,
+    "constant.builtin": {
+      "bold": true,
+      "color": 94
+    },
+    "function": 26,
+    "operator": {
+      "color": 239,
+      "bold": true
+    },
+    "punctuation.bracket": 239,
+    "punctuation.delimiter": 239,
+    "variable.builtin": {
+      "bold": true
+    }
+  }
+}
