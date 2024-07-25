@@ -7,9 +7,10 @@
     "json"
   ],
   "eablokker.tabsSidebar.config.customTabOrder" : [
-    "file:\/\/\/Users\/rudix\/.config\/nvim\/lua\/plugins\/example.lua",
-    "file:\/\/\/Users\/rudix\/.config\/nvim\/lazy-lock.json",
+    "file:\/\/\/Users\/rudix\/.config\/nvim\/lua\/config\/keymaps.lua",
+    "file:\/\/\/Users\/rudix\/.config\/nvim\/lua\/plugins\/codeumai.lua",
     "file:\/\/\/Users\/rudix\/.config\/nvim\/lua\/plugins\/bbq.lua",
-    "file:\/\/\/Users\/rudix\/.config\/nvim\/lua\/config\/keymaps.lua"
+    "file:\/\/\/Users\/rudix\/.config\/nvim\/lua\/plugins\/example.lua",
+    "file:\/\/\/Users\/rudix\/.config\/nvim\/lazyvim.json"
   ]
 }
