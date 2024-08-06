@@ -1,0 +1,12 @@
+{
+  "eablokker.tabsSidebar.config.collapsedFolders" : [
+
+  ],
+  "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
+    "lua"
+  ],
+  "eablokker.tabsSidebar.config.customTabOrder" : [
+    "file:\/\/\/Users\/rudix\/.config\/nvim\/lua\/config\/keymaps.lua",
+    "file:\/\/\/Users\/rudix\/.config\/nvim\/init.lua"
+  ]
+}
